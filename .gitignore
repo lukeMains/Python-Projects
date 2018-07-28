@@ -163,3 +163,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+# Modules?
+.idea/modules.xml
